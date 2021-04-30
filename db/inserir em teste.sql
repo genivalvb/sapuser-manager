@@ -1,0 +1,1 @@
+INSERT into Produto(Descricao,Valor) Values("Abacaxi","5,00")

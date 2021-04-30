@@ -1,0 +1,1 @@
+INSERT INTO Item_venda(Cod_Produto,Quantidade,Valor) Values(2,50,"1050,00")
